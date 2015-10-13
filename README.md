@@ -24,6 +24,8 @@ This project is still in development and thus we can't give much information abo
 
 Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
 
+> Available now for:
+>
 > [Android >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
 > 
 > [App Store >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
