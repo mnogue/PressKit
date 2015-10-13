@@ -36,8 +36,6 @@ Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch inte
 
 It is as simple as subscribing a `method` to the desired gesture and this method will be `triggered` every time the gesture is detected.
 
-[Download on the Unity AssetsStore >](http://u3d.as/8bb) [Documentation](#)
-
 ``` cs
 Gesture.OnSwipeRight(this.DetectedSwipeRight);
 
@@ -45,3 +43,5 @@ public void DetectedSwipeRight() {
     Debug.Log("The player has swiped right!");
 }
 ```
+
+[Download on the Unity AssetsStore >](http://u3d.as/8bb) [Documentation](#)
