@@ -20,6 +20,8 @@ Catsoft Studios started its journey in 2014. The following lines showcase some o
 
 ## Aaargh! My cats!
 
+![Mobius of Magic logo](http://press.catsoft-studios.com/media/aaarghmycats.png)
+
 This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our **Twitter** account for more information!
 
 > *Working title*
