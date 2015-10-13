@@ -40,6 +40,10 @@ The story begins at the **Harbour of Thal'mur**, one of the regions of the world
 
 ###Screenshots
 
+> [Download Screenshots >][mobiusofmagic/images.zip]
+
+![Mobius of Magic Screenshots][mobiusofmagic/images.jpeg]
+
 ##Simple Gesture
 
 hello world
