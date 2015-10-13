@@ -1,4 +1,4 @@
-#Catsoft Studios
+# Catsoft Studios
 
 Catsoft Studios was born from the need of creating and expressing new and rewarding experiences through digital media. It is a one-man army company commited to create top quality products with a clear mind set towards innovation. Specially, but not limited , on the interactive entertainment field.
 
@@ -16,27 +16,27 @@ And so was born Mobius of Magic, launched on the 8th of August of 2015.
 
 Catsoft Studios started its journey in 2014. The following lines showcase some of our latest works.
 
-###Aaargh! My cats!
+## Aaargh! My cats!
 
 This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our **Twitter** account for more information!
 
 [Twitter](http://twitter.com/catsoftstudios)
 
-###Mobius of Magic
+## Mobius of Magic
 
 Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
 
-[PRESS-KIT >](http://press.catsoft-studios.com/mobiusofmagic)
+[PRESS KIT >](http://press.catsoft-studios.com/mobiusofmagic)
 [Android PlayStore >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
 [App Store >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
 
-###Simple Gesture
+## Simple Gesture
 
 Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
 Download it on: [Unity AssetsStore >](http://u3d.as/8bb)
 
-``` C#
+``` cs
 Gesture.OnSwipeRight(this.DetectedSwipeRight);
 
 public void DetectedSwipeRight() {
