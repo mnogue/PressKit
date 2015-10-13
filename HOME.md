@@ -2,6 +2,8 @@
 
 Catsoft Studios was born from the need of creating and expressing new and rewarding experiences through digital media. It is a one-man army company commited to create top quality products with a clear mind set towards innovation. Specially, but not limited , on the interactive entertainment field.
 
+> ![Catsoft Studios logo](http://press.catsoft-studios.com/media/catsoftstudios.png)
+
 ## Our Story
 
 Before I started Catsoft Studios, I was working on a cloud gaming start-up called LudiumLab. We had a state of the art technology that allowed the users to play AAA games in almost any device that had an internet connection.
