@@ -24,23 +24,23 @@ This project is still in development and thus we can't give much information abo
 
 ##Mobius of Magic
 
+Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
+
+[View PRESS-KIT >](http://press.catsoft-studios.com/mobiusofmagic)
+
 > Available now on:
 >
 > [Android PlayStore >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
 > 
 > [iOS AppStore >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
 
-Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
-
-[View PRESS-KIT >](http://press.catsoft-studios.com/mobiusofmagic)
-
 ##Simple Gesture
+
+Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
 > Download it now:
 >
 > [Unity AssetsStore >](http://u3d.as/8bb)
-
-Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
 
 
