@@ -14,8 +14,18 @@ And so was born Mobius of Magic, launched on the 8th of August of 2015.
 
 # Projects
 
-##[aaargh my cats](Game: Aaargh My Cats!)
-##[mobius of magic](Game: Mobius of Magic)
-##[simple gesture](Plugin: Simple Gesture)
+##Aaargh! My cats!
+
+hello world
+
+##Mobius of Magic
+
+hello world
+
+##Simple Gesture
+
+hello world
+
+
 
 
