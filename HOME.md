@@ -26,7 +26,7 @@ This project is still in development and thus we can't give much information abo
 
 ## Mobius of Magic
 
-Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
+The story begins at the **Harbour of Thal'mur**, one of the regions of the world of **Everwind**. After being training your sorcery skills with your master **Roku**, he decides it is time for you to take your final test. Once you have reviewd the basics of spell casting, **Roku** sends you to run an errand for **Leena**, the **White Mistress**. Your master gives you the **Dragon Fang**, an ancient relic known to have mystical powers. Unaware of the importance of this artifact, you embark on an epic adventure that will lead you from the greatest cities to the darkest regions of the world.
 
 > ![Mobius of Magic logo](http://press.catsoft-studios.com/media/mobiusofmagic.png)
 
