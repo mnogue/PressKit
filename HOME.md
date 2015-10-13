@@ -34,7 +34,7 @@ Mobius of Magic is an old-school RPG designed exclusively for touch-screen devic
 
 Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
-It is as simple as subscribing a `method` to the desired gesture and this method will be `triggered` every time the gesture is detected.
+Using **Simple Gesture** is as easy as subscribing a method to the desired gesture. For example, if we want to detect when the user performs a swipe to the right side of the screen, we just need to subscribe a custom method (ie: `DetectedSwipeRight`) to the `OnSwipeRight` method of the `SimpleGesture` class. *Voliá*
 
 ``` cs
 Gesture.OnSwipeRight(this.DetectedSwipeRight);
