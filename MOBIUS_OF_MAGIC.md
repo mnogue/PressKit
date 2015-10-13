@@ -1,68 +1,266 @@
-#Catsoft Studios
+Flatdoc
+=======
 
-Catsoft Studios was born from the need of creating and expressing new and rewarding experiences through digital media. It is a one-man army company commited to create top quality products with a clear mind set towards innovation. Specially, but not limited , on the interactive entertainment field.
+Flatdoc is a small JavaScript file that fetches Markdown files and renders them
+as full pages. Essentially, it's the easiest
+way to make open source documentation from *Readme* files.
 
-## Our Story
+ * No server-side components
+ * No build process needed
+ * Deployable via GitHub Pages
+ * Can fetch GitHub Readme files
+ * Gorgeous default theme (and it's responsive)
+ * Just create an HTML file and deploy!
 
-Before I started Catsoft Studios, I was working on a cloud gaming start-up called LudiumLab. We had a state of the art technology that allowed the users to play AAA games in almost any device that had an internet connection.
+*Current version: [v0.9.0][dist]*
 
-In July of 2014, the business went bankrupt and closed its doors. I had some projects in mind and it seemed that it was the time to carry them on. I created a plugin for Unity called SImple Gesture, which enabled developers to easly detect finger gestures on touch-screen devices with just one line of code.
+[![Build Status](https://travis-ci.org/rstacruz/flatdoc.svg?branch=gh-pages)](https://travis-ci.org/rstacruz/flatdoc)
 
-I created an Android demo and it was very well recieved by the community. People really liked the idea of being able to control a character by drawing gestures on the screen, instead of pressing virtual buttons. That's when I thought of making a real game using the plugin I just had created. Despite the limited resources I had, I was confident that my programming and design skills would be enough to transform this idea into a video-game.
+Getting started
+---------------
 
-And so was born Mobius of Magic, launched on the 8th of August of 2015.
+Create a file based on the template, which has a bare DOM, link to the
+scripts, and a link to a theme. It will look something like this (not exact).
+For GitHub projects, simply place this file in your [GitHub pages] branch and
+you're all good to go.
 
-# Projects
+*In short: just download this file and upload it somewhere.*
 
-Catsoft Studios started its journey in 2014. The following lines showcase some of our latest works.
+The main JS and CSS files are also available in [npm] and [bower].
 
-##Aaargh! My cats!
+[Default theme template >][template]
 
-This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our [http://twitter.com/catsoftstudios](Twitter) account for more information!
+[Blank template >][blank]
 
-##Mobius of Magic
+[bower]: http://bower.io/search/?q=flatdoc
+[npm]: https://www.npmjs.org/package/flatdoc
 
-Mobius of Magic is an old-school RPG designed exclusively for touch-screen devices. The combat system is a unique mix between the turn-based titles of the PlayStation X generation (Final Fantasy VII - IX, Dragon Ques, ...) and the new interaction capabilities mobile devices.
+### Via GitHub
 
-> Available now on:
->
-> [Android PlayStore >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
-> 
-> [iOS AppStore >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
+To fetch a Github Repository's readme file, use the `Flatdoc.github` fetcher.
+This will fetch the Readme file of the repository's default branch.
 
-###Story
+``` javascript
+Flatdoc.run({
+  fetcher: Flatdoc.github('USER/REPO')
+});
+```
 
-The story begins at the **Harbour of Thal'mur**, one of the regions of the world of **Everwind**. After being training your sorcery skills with your master **Roku**, he decides it is time for you to take your final test. Once you have reviewd the basics of spell casting, **Roku** sends you to run an errand for **Leena**, the **White Mistress**. Your master gives you the **Dragon Fang**, an ancient relic known to have mystical powers. Unaware of the importance of this artifact, you embark on an epic adventure that will lead you from the greatest cities to the darkest regions of the world.
+You may also fetch another file other than the Readme file, just specify it as
+the 2nd parameter.
 
-###Features
+``` javascript
+Flatdoc.run({
+  fetcher: Flatdoc.github('USER/REPO', 'Changelog.md')
+});
+```
 
-+ Learn powerfull spells from different mage guilds scattered around the world and use them to fight an evil **shadow** in a story with multiple plot twists and epic surprises.
-+ An innovative and dynamic turn-based combat system designed specifically for touch-screen devices, where attacking the enemy is as important as blocking incoming attacks and stealing *mana*.
-+ Explore the hand-crafted regions of the world of **Everwind**, including ancient forests, mystic swamps, dark caves and abandoned temples, among many other places.
-+ Meet a wide variety of characters in your journey, such as a drunk old-man that was once a hero, a rude and selfish ermit with great power and many others equally extravagant.
-+ Enjoy the experience with a unique and immersive soundtracks and delightfull sound effects.
+After you've done this, you probably want to deploy it via [GitHub Pages].
 
-###Trailer
+[GitHub Pages guide >][GitHub Pages]
 
-[![youtube.com/?watch=Xx0gw0F1hhw](http://press.catsoft-studios.com/mobiusofmagic/trailer.png)](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
+### Via a file
 
-> [Watch it on Youtube >](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
+You may also fetch a file. In this example, this fetches the file `Readme.md` in
+the same folder as the HTML file.
 
-###Screenshots
+``` javascript
+Flatdoc.run({
+  fetcher: Flatdoc.file('Readme.md')
+});
+```
 
-![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image1.png)
-![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image2.png)
-![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image3.png)
-![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image4.png)
+You may actually supply any URL here. It will be fetched via AJAX. This is
+useful for local testing.
 
-> Download high quality screenshots:
->
-> [Download >](mobiusofmagic/images.zip)
+``` javascript
+Flatdoc.run({
+  fetcher: Flatdoc.file('http://yoursite.com/Readme.md')
+});
+```
 
-##Simple Gesture
+How it works
+------------
 
-hello world
+Flatdoc is a hosted `.js` file (along with a theme and its assets) that you can
+add into any page hosted anywhere.
 
+#### All client-side
 
+There are no build scripts or 3rd-party services involved. Everything is done in
+the browser. Worried about performance? Oh, It's pretty fast.
 
+Flatdoc utilizes the [GitHub API] to fetch your project's Readme files. You may
+also configure it to fetch any arbitrary URL via AJAX.
 
+#### Lightning-fast parsing
+
+Next, it uses [marked], an extremely fast Markdown parser that has support for
+GitHub flavored Markdown.
+
+Flatdoc then simply renders *menu* and *content* DOM elements to your HTML
+document. Flatdoc also comes with a default theme to style your page for you, or
+you may opt to create your own styles.
+
+Markdown extras
+---------------
+
+Flatdoc offers a few harmless, unobtrusive extras that come in handy in building
+documentation sites.
+
+#### Code highlighting
+
+You can use Markdown code fences to make syntax-highlighted text. Simply
+surround your text with three backticks. This works in GitHub as well.
+See [GitHub Syntax Highlighting][fences] for more info.
+
+    ``` html
+    <strong>Hola, mundo</strong>
+    ```
+
+#### Blockquotes
+
+Blockquotes show up as side figures. This is useful for providing side
+information or non-code examples.
+
+> Blockquotes are blocks that begin with `>`.
+
+#### Smart quotes
+
+Single quotes, double quotes, and double-hyphens are automatically replaced to
+their typographically-accurate equivalent. This, of course, does not apply to
+`<code>` and `<pre>` blocks to leave code alone.
+
+> "From a certain point onward there is no longer any turning back. That is the
+> point that must be reached."  
+> --Franz Kafka
+
+#### Buttons
+
+If your link text has a `>` at the end (for instance: `Continue >`), they show
+up as buttons.
+
+> [View in GitHub >][project]
+
+Customizing
+===========
+
+Basic
+-----
+
+### Theme options
+
+For the default theme (*theme-white*), You can set theme options by adding
+classes to the `<body>` element. The available options are:
+
+#### big-h3
+Makes 3rd-level headings bigger.
+
+``` html
+<body class='big-h3'>
+```
+
+#### no-literate
+Disables "literate" mode, where code appears on the right and content text
+appear on the left.
+
+``` html
+<body class='no-literate'>
+```
+
+#### large-brief
+Makes the opening paragraph large.
+
+``` html
+<body class='large-brief'>
+```
+
+### Adding more markup
+
+You have full control over the HTML file, just add markup wherever you see fit.
+As long as you leave `role='flatdoc-content'` and `role='flatdoc-menu'` empty as
+they are, you'll be fine.
+
+Here are some ideas to get you started.
+
+ * Add a CSS file to make your own CSS adjustments.
+ * Add a 'Tweet' button on top.
+ * Add Google Analytics.
+ * Use CSS to style the IDs in menus (`#acknowledgements + p`).
+
+### JavaScript hooks
+
+Flatdoc emits the events `flatdoc:loading` and `flatdoc:ready` to help you make
+custom behavior when the document loads.
+
+``` js
+$(document).on('flatdoc:ready', function() {
+  // I don't like this section to appear
+  $("#acknowledgements").remove();
+});
+```
+
+Full customization
+------------------
+
+You don't have to be restricted to the given theme. Flatdoc is just really one
+`.js` file that expects 2 HTML elements (for *menu* and *content*). Start with
+the blank template and customize as you see fit.
+
+[Get blank template >][template]
+
+Misc
+====
+
+Inspirations
+------------
+
+The following projects have inspired Flatdoc.
+
+ * [Backbone.js] - Jeremy's projects have always adopted this "one page
+ documentation" approach which I really love.
+
+ * [Docco] - Jeremy's Docco introduced me to the world of literate programming,
+ and side-by-side documentation in general.
+
+ * [Stripe] - Flatdoc took inspiration on the look of their API documentation.
+
+ * [DocumentUp] - This service has the same idea but does a hosted readme 
+ parsing approach.
+
+Attributions
+------------
+
+[Photo](http://www.flickr.com/photos/doug88888/2953428679/) taken from Flickr,
+licensed under Creative Commons.
+
+Acknowledgements
+----------------
+
+© 2013, 2014, Rico Sta. Cruz. Released under the [MIT 
+License](http://www.opensource.org/licenses/mit-license.php).
+
+**Flatdoc** is authored and maintained by [Rico Sta. Cruz][rsc] with help from its 
+[contributors][c].
+
+ * [My website](http://ricostacruz.com) (ricostacruz.com)
+ * [Github](http://github.com/rstacruz) (@rstacruz)
+ * [Twitter](http://twitter.com/rstacruz) (@rstacruz)
+
+[rsc]: http://ricostacruz.com
+[c]:   http://github.com/rstacruz/flatdoc/contributors
+
+[GitHub API]: http://github.com/api
+[marked]: https://github.com/chjj/marked
+[Backbone.js]: http://backbonejs.org
+[dox]: https://github.com/visionmedia/dox
+[Stripe]: https://stripe.com/docs/api
+[Docco]: http://jashkenas.github.com/docco
+[GitHub pages]: https://pages.github.com
+[fences]:https://help.github.com/articles/github-flavored-markdown#syntax-highlighting
+[DocumentUp]: http://documentup.com
+
+[project]: https://github.com/rstacruz/flatdoc
+[template]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/template.html
+[blank]: https://github.com/rstacruz/flatdoc/raw/gh-pages/templates/blank.html
+[dist]: https://github.com/rstacruz/flatdoc/tree/gh-pages/v/0.9.0
