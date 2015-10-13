@@ -45,5 +45,3 @@ public void DetectedSwipeRight() {
 It is as simple as subscribing a `method` to the desired gesture and this method will be `triggered` every time the gesture is detected.
 
 [Download on the Unity AssetsStore >](http://u3d.as/8bb) [Documentation](#)
-
-Download our [Android DEMO >](https://play.google.com/store/apps/details?id=com.mnogue.simplegesture)
