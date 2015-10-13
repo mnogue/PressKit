@@ -32,10 +32,6 @@ Mobius of Magic is an old-school RPG designed exclusively for touch-screen devic
 
 ##Simple Gesture
 
-Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
-
-Download it on: [Unity AssetsStore >](http://u3d.as/8bb)
-
 ``` C#
 Gesture.OnSwipeRight(this.DetectedSwipeRight);
 
@@ -43,3 +39,7 @@ public void DetectedSwipeRight() {
     Debug.Log("The player has swiped right!");
 }
 ```
+
+Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
+
+Download it on: [Unity AssetsStore >](http://u3d.as/8bb)
