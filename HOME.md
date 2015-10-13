@@ -6,13 +6,13 @@ Catsoft Studios was born from the need of creating and expressing new and reward
 
 ## Our Story
 
-Before I started Catsoft Studios, I was working on a cloud gaming start-up called LudiumLab. We had a state of the art technology that allowed the users to play AAA games in almost any device that had an internet connection.
+Before I started Catsoft Studios, I was working on a cloud gaming start-up called [LudiumLab](http://ludiumlab.com). We had a state of the art technology that allowed the users to play AAA games in almost any device that had an internet connection.
 
 In July of 2014, the business went bankrupt and closed its doors. I had some projects in mind and it seemed that it was the time to carry them on. I created a plugin for Unity called SImple Gesture, which enabled developers to easly detect finger gestures on touch-screen devices with just one line of code.
 
 I created an Android demo and it was very well recieved by the community. People really liked the idea of being able to control a character by drawing gestures on the screen, instead of pressing virtual buttons. That's when I thought of making a real game using the plugin I just had created. Despite the limited resources I had, I was confident that my programming and design skills would be enough to transform this idea into a video-game.
 
-And so was born Mobius of Magic, launched on the 8th of August of 2015.
+And so was born **Mobius of Magic**, launched on the 8th of August of 2015.
 
 # Projects
 
@@ -21,6 +21,8 @@ Catsoft Studios started its journey in 2014. The following lines showcase some o
 ## Aaargh! My cats!
 
 This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our **Twitter** account for more information!
+
+> *Working title*
 
 [Twitter](http://twitter.com/catsoftstudios)
 
