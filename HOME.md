@@ -40,7 +40,7 @@ The story begins at the **Harbour of Thal'mur**, one of the regions of the world
 
 ## Simple Gesture
 
-![Simple Gesture logo](http://press.catsoft-studios.com/media/simplegesture.png)
+![Simple Gesture logo](http://press.catsoft-studios.com/media/simplegesture.jpg)
 
 Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
