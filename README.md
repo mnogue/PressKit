@@ -38,11 +38,16 @@ The story begins at the **Harbour of Thal'mur**, one of the regions of the world
 
 ###Trailer
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xx0gw0F1hhw
+" target="_blank"><img src="http://img.youtube.com/vi/Xx0gw0F1hhw/0.jpg" 
+alt="youtube.com/?watch=Xx0gw0F1hhw" width="460" height="259" border="10" /></a>
+
 ###Screenshots
-![Mobius of Magic Screenshots](mobiusofmagic/image1.png)
-![Mobius of Magic Screenshots](mobiusofmagic/image2.png)
-![Mobius of Magic Screenshots](mobiusofmagic/image3.png)
-![Mobius of Magic Screenshots](mobiusofmagic/image4.png)
+
+![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image1.png)
+![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image2.png)
+![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image3.png)
+![Mobius of Magic Screenshots](http://press.catsoft-studios.com/mobiusofmagic/image4.png)
 
 > Download high quality screenshots:
 >
