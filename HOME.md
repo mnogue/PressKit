@@ -20,7 +20,7 @@ Catsoft Studios started its journey in 2014. The following lines showcase some o
 
 ## Aaargh! My cats!
 
-![Mobius of Magic logo](http://press.catsoft-studios.com/media/aaarghmycats.png)
+![Aaargh! My Cats! logo](http://press.catsoft-studios.com/media/aaarghmycats.png)
 
 This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our **Twitter** account for more information!
 
@@ -39,6 +39,8 @@ The story begins at the **Harbour of Thal'mur**, one of the regions of the world
 [App Store >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
 
 ## Simple Gesture
+
+![Simple Gesture logo](http://press.catsoft-studios.com/media/simplegesture.png)
 
 Simple Gesture is a powerful, yet easy to use, gesture recognizer for touch interface devices that allows you to focus on your current project, instead of struggling with the implementation of gesture recognition algorithms.
 
