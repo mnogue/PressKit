@@ -54,4 +54,4 @@ public void DetectedSwipeRight() {
 }
 ```
 
-[Download on the Unity AssetsStore >](http://u3d.as/8bb) [Documentation](#)
+[Download on the Unity AssetsStore >](http://u3d.as/8bb) [Documentation](http://simple-gesture.catsoft-studios.com)
