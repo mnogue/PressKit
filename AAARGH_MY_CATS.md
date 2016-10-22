@@ -1,18 +1,20 @@
 # Aaargh! My Cats!
 
-
-
 > For more information, get in touch at:
 > [press@catsoft-studios.com](press@catsoft-studios.com)
 
-[Play Store >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
-[App Store >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
+[Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.aaarghmycats)
+[App Store >](https://itunes.apple.com/us/app/aaargh!-my-cats!/id1115847789?ls=1&mt=8)
 
 ## Story
 
-The story begins at the **Harbour of Thal'mur**, one of the regions of the world of **Everwind**. After being training your sorcery skills with your master **Roku**, he decides it is time for you to take your final test. Once you have reviewd the basics of spell casting, **Roku** sends you to run an errand for **Leena**, the **White Mistress**. Your master gives you the **Dragon Fang**, an ancient relic known to have mystical powers. Unaware of the importance of this artifact, you embark on an epic adventure that will lead you from the greatest cities to the darkest regions of the world.
+Once upon a time, beyond the Mystic Sea and the Mountains of Fire, there was an inn called... The Horned Beer! There, lived our hero... Wulfern! A warrior who once fought a thousand and one battles! Who now lives retired... Happily with his furry friends.
 
-> ![Mobius of Magic character Mayor](http://press.catsoft-studios.com/mobiusofmagic/media/story.png)
+Our story begins on a night of a full moon. While Wulfern sleeps tight, a bunch of shadows enter his house to steal his most precious treasures...
+
+[![youtube.com/watch?v=r-g2TkcF0Y8](http://press.catsoft-studios.com/mobiusofmagic/media/trailer.png)](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
+
+> [youtube.com/watch?v=r-g2TkcF0Y8](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
 
 ## Features
 
