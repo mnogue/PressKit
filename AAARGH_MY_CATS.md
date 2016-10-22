@@ -12,7 +12,7 @@ Once upon a time, beyond the Mystic Sea and the Mountains of Fire, there was an 
 
 Our story begins on a night of a full moon. While Wulfern sleeps tight, a bunch of shadows enter his house to steal his most precious treasures...
 
-[![youtube.com/watch?v=r-g2TkcF0Y8](http://press.catsoft-studios.com/mobiusofmagic/media/trailer.png)](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
+[![youtube.com/watch?v=r-g2TkcF0Y8](http://press.catsoft-studios.com/aaarghmycats/media/trailer.png)](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
 
 > [youtube.com/watch?v=r-g2TkcF0Y8](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
 
