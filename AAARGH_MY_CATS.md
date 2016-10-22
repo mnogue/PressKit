@@ -1,7 +1,5 @@
 # Aaargh! My Cats!
 
-Links of interest:
-
 [Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.aaarghmycats)
 [App Store >](https://itunes.apple.com/us/app/aaargh!-my-cats!/id1115847789?ls=1&mt=8)
 
