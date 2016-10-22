@@ -28,7 +28,7 @@ Your cats have been kidnapped by the inglorious Goblins! Boot up with your house
 
 **Aaargh! My Cats!** is an endless runner... Wait! Don't go! Let me finish! It's and **endless-runner-story-driven-freemium-game**. What this 36 character long word means is that at the beginning of the game you are presented with the quest of rescuing your cats. Every level requires you to complete up to 3 different goals. And at the end of each level, there's a cutscene that introduces the next goals and tells a new fragment of the story. Moreover, at the end of each stage (more or less after 10 levels) you'll face a boss fight that requires you to think of a different strategy in order to beat them.
 
-[PRESS KIT >](http://press.catsoft-studios.com/aaargh-my-cats)
+[PRESS KIT >](http://press.catsoft-studios.com/aaarghmycats)
 [Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.aaarghmycats)
 [App Store >](https://itunes.apple.com/us/app/aaargh!-my-cats!/id1115847789?ls=1&mt=8)
 
