@@ -14,6 +14,8 @@ I created an Android demo and it was very well recieved by the community. People
 
 And so was born **Mobius of Magic**, launched on the 8th of August of 2015.
 
+Later on, we launched our second project, **Aaargh! My Cats!** launched on the 24th of October of 2016.
+
 # Projects
 
 Catsoft Studios started its journey in 2014. The following lines showcase some of our latest works.
@@ -22,11 +24,13 @@ Catsoft Studios started its journey in 2014. The following lines showcase some o
 
 ![Aaargh! My Cats! logo](http://press.catsoft-studios.com/media/aaarghmycats.png)
 
-This project is still in development and thus we can't give much information about it. But we can assure we're putting all of our resources to create a top quality game for mobile devices. Stay tuned on our **Twitter** account for more information!
+Your cats have been kidnapped by the inglorious Goblins! Boot up with your house's door and use it as a skateboard to pursue them in this story driven adventure!
 
-> *Working title*
+**Aaargh! My Cats!** is an endless runner... Wait! Don't go! Let me finish! It's and **endless-runner-story-driven-freemium-game**. What this 36 character long word means is that at the beginning of the game you are presented with the quest of rescuing your cats. Every level requires you to complete up to 3 different goals. And at the end of each level, there's a cutscene that introduces the next goals and tells a new fragment of the story. Moreover, at the end of each stage (more or less after 10 levels) you'll face a boss fight that requires you to think of a different strategy in order to beat them.
 
-[Twitter](http://twitter.com/catsoftstudios)
+[PRESS KIT >](http://press.catsoft-studios.com/aaargh-my-cats)
+[Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.aaarghmycats)
+[App Store >](https://itunes.apple.com/us/app/aaargh!-my-cats!/id1115847789?ls=1&mt=8)
 
 ## Mobius of Magic
 
@@ -35,7 +39,7 @@ This project is still in development and thus we can't give much information abo
 The story begins at the **Harbour of Thal'mur**, one of the regions of the world of **Everwind**. After being training your sorcery skills with your master **Roku**, he decides it is time for you to take your final test. Once you have reviewd the basics of spell casting, **Roku** sends you to run an errand for **Leena**, the **White Mistress**. Your master gives you the **Dragon Fang**, an ancient relic known to have mystical powers. Unaware of the importance of this artifact, you embark on an epic adventure that will lead you from the greatest cities to the darkest regions of the world.
 
 [PRESS KIT >](http://press.catsoft-studios.com/mobiusofmagic)
-[Android PlayStore >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
+[Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.mobiusofmagic)
 [App Store >](https://itunes.apple.com/us/app/mobius-of-magic/id1022330445)
 
 ## Simple Gesture
