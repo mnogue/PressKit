@@ -28,9 +28,9 @@ Our story begins on a night of a full moon. While Wulfern sleeps tight, a bunch 
 
 ## Gameplay Trailer
 
-[![youtube.com/watch?v=u-pCGLqbWHg](http://press.catsoft-studios.com/mobiusofmagic/media/gametrailer.png)](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
+[![youtube.com/watch?v=u-pCGLqbWHg](http://press.catsoft-studios.com/aaarghmycats/media/gametrailer.png)](http://www.youtube.com/watch?v=u-pCGLqbWHg)
 
-> [/watch?v=Xx0gw0F1hhw](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
+> [youtube.com/watch?v=u-pCGLqbWHg](http://www.youtube.com/watch?v=u-pCGLqbWHg)
 
 ## Screenshots
 
