@@ -1,10 +1,12 @@
 # Aaargh! My Cats!
 
-> For more information, get in touch at:
-> [press@catsoft-studios.com](press@catsoft-studios.com)
+Links of interest:
 
 [Google Play >](https://play.google.com/store/apps/details?id=com.catsoftstudios.aaarghmycats)
 [App Store >](https://itunes.apple.com/us/app/aaargh!-my-cats!/id1115847789?ls=1&mt=8)
+
+For more information, get in touch at:
+[press@catsoft-studios.com](press@catsoft-studios.com)
 
 ## Story
 
