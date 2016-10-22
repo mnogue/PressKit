@@ -12,21 +12,23 @@ Once upon a time, beyond the Mystic Sea and the Mountains of Fire, there was an 
 
 Our story begins on a night of a full moon. While Wulfern sleeps tight, a bunch of shadows enter his house to steal his most precious treasures...
 
-[![youtube.com/watch?v=r-g2TkcF0Y8](http://press.catsoft-studios.com/aaarghmycats/media/trailer.png)](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
+[![youtube.com/watch?v=r-g2TkcF0Y8](http://press.catsoft-studios.com/aaarghmycats/media/storytrailer.png)](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
 
 > [youtube.com/watch?v=r-g2TkcF0Y8](https://www.youtube.com/watch?v=r-g2TkcF0Y8)
 
 ## Features
 
-+ Learn powerfull spells from different mage guilds scattered around the world and use them to fight an evil **shadow** in a story with multiple plot twists and epic surprises.
-+ An innovative and dynamic turn-based combat system designed specifically for touch-screen devices, where attacking the enemy is as important as blocking incoming attacks and stealing *mana*.
-+ Explore the hand-crafted regions of the world of **Everwind**, including ancient forests, mystic swamps, dark caves and abandoned temples, among many other places.
-+ Meet a wide variety of characters in your journey, such as a drunk old-man that was once a hero, a rude and selfish ermit with great power and many others equally extravagant.
-+ Enjoy the experience with a unique and immersive soundtracks and delightfull sound effects.
++ Help Wulfern get his kittens back! You will pursue the goblins throughout more than **50 levels**, including **ancient forests**, **high hills**, **abandoned temples**, **creepy castles** and more!
 
-## Trailer
++ Perform tricks and hit the ground in style! Pull off 360 spins to activate the **BOOST**, a special ability that allows you to become immortal for a small period of time and substantially increase your speed!
 
-[![youtube.com/?watch=Xx0gw0F1hhw](http://press.catsoft-studios.com/mobiusofmagic/media/trailer.png)](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
++ Defeat **more than 10 final bosses**, each one requiring you to think of a different strategy!
+
++ Collect coins to purchase new gear, crazy costumes, helmets and powerful skates in the shop! Isn't it time you thought about that gold sled you always wanted?
+
+## Gameplay Trailer
+
+[![youtube.com/watch?v=u-pCGLqbWHg](http://press.catsoft-studios.com/mobiusofmagic/media/gametrailer.png)](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
 
 > [/watch?v=Xx0gw0F1hhw](http://www.youtube.com/watch?v=Xx0gw0F1hhw)
 
