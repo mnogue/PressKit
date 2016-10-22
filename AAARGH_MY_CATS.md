@@ -31,14 +31,3 @@ Our story begins on a night of a full moon. While Wulfern sleeps tight, a bunch 
 [![youtube.com/watch?v=u-pCGLqbWHg](http://press.catsoft-studios.com/aaarghmycats/media/gametrailer.png)](http://www.youtube.com/watch?v=u-pCGLqbWHg)
 
 > [youtube.com/watch?v=u-pCGLqbWHg](http://www.youtube.com/watch?v=u-pCGLqbWHg)
-
-## Screenshots
-
-![Mobius of Magic Screenshot 1](http://press.catsoft-studios.com/mobiusofmagic/media/image1.png)
-![Mobius of Magic Screenshot 2](http://press.catsoft-studios.com/mobiusofmagic/media/image2.png)
-![Mobius of Magic Screenshot 3](http://press.catsoft-studios.com/mobiusofmagic/media/image3.png)
-![Mobius of Magic Screenshot 4](http://press.catsoft-studios.com/mobiusofmagic/media/image4.png)
-
-> Download high quality screenshots:
->
-> [Download >](http://press.catsoft-studios.com/mobiusofmagic/media/images.zip)
